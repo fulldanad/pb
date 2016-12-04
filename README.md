@@ -1,4 +1,4 @@
-#THIS DOCKER IMAGE DOES NOT WORK - I have raised an issue(https://github.com/StanfordCDT/pb/issues/2) and hope to find a solution soon. 
+#THIS DOCKER IMAGE DOES NOT WORK  
 
 # **Participatory Budgeting Platform** #
 The Participatory Budgeting Platform has been developed by the [Stanford Crowdsourced Democracy Team](http://voxpopuli.stanford.edu/). The platform is being used by many cities across the United States for hosting participatory budgeting elections. You can check out the live platform hosted at [https://pbstanford.org/](https://pbstanford.org/).
